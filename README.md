@@ -1,9 +1,8 @@
 <b>React Reactions</b>
 
 <img src="https://github.com/amanjain7838/reactReactions/blob/master/public/images/reactReactions.png"/>
-Floating fade away reactions 
+<b>Floating fade away reactions </b>
 
 <hr>
-<b>Reactions has random speed and random x-axis</b>
-<hr>
+Reactions has random speed and random x-axis
 Build using functional components and no library used for animation. 
