@@ -4,7 +4,6 @@
 Floating fade away reactions 
 
 <hr>
-Enhancement for reaction animation for react app. 
-
-
 <b>Reactions has random speed and random x-axis</b>
+<hr>
+Build using functional components and no library used for animation. 
