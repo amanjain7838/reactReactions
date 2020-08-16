@@ -4,5 +4,4 @@
 <b>Floating fade away reactions </b>
 
 <hr>
-Reactions has random speed and random x-axis
-Build using functional components and no library used for animation. 
+Build using functional components and no library used for animation. Reactions has random speed and random x-axis.
