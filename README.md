@@ -2,7 +2,6 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/ziwV8P1LvBLSxa6v9x/giphy.gif"><br>
 </p>
-<h1 align="center">Floating Reaction</h1>
 
 <p align="center">
 
@@ -15,9 +14,10 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 	<img src="http://hits.dwyl.com/amanjain7838/reactReactions.svg">
 	<img src="https://github.com/amanjain7838/reactReactions/blob/master/public/images/reactReactions.png"/><br>
-	<h2 align="center"><a href="https://floatingreactions.herokuapp.com/" targer="_blank">Live Demo</a></h2>
 
 </p>
+<h1 align="center">Floating Reaction</h1>
+<h2 align="center"><a href="https://floatingreactions.herokuapp.com/" targer="_blank">Demo</a></h2>
 
 
 ## Description
