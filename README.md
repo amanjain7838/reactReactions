@@ -3,7 +3,8 @@
 	<img src="https://media.giphy.com/media/ziwV8P1LvBLSxa6v9x/giphy.gif"><br>
 </p>
 
-<p align="center">
+<h1 align="center">Floating Reaction</h1>
+<h6 align="center">
 
   <img src="https://img.shields.io/badge/Made%20by-Aman-brightgreen" >
   <img src="https://img.shields.io/badge/React-16.13-green.svg">
@@ -15,8 +16,7 @@
 	<img src="http://hits.dwyl.com/amanjain7838/reactReactions.svg">
 	<img src="https://github.com/amanjain7838/reactReactions/blob/master/public/images/reactReactions.png"/><br>
 
-</p>
-<h1 align="center">Floating Reaction</h1>
+</h6>
 <h2 align="center"><a href="https://floatingreactions.herokuapp.com/" targer="_blank">Demo</a></h2>
 
 
