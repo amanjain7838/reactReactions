@@ -2,6 +2,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/ziwV8P1LvBLSxa6v9x/giphy.gif"><br>
 </p>
+<h1 align="center">Floating Reaction</h1>
 
 <p align="center">
 
@@ -18,7 +19,6 @@
 
 </p>
 
-<h1 align="center">Floating Reaction</h1>
 
 ## Description
 
