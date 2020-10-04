@@ -1,5 +1,7 @@
-<h1 align="center">Floating Reaction</h1>
 
+<p align="center">
+	<img src="https://media.giphy.com/media/ziwV8P1LvBLSxa6v9x/giphy.gif"><br>
+</p>
 
 <p align="center">
 
@@ -16,10 +18,10 @@
 
 </p>
 
+<h1 align="center">Floating Reaction</h1>
+
 ## Description
-<p align="center">
-	<img src="https://media.giphy.com/media/ziwV8P1LvBLSxa6v9x/giphy.gif"><br>
-</p>
+
 Floating Reactions build using css animation, making animation smooth and eats less memory. Reactions has random speed and random x-axis.
 
 ## Project setup
