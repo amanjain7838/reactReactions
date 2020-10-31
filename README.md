@@ -22,7 +22,7 @@
 
 ## Description
 
-Floating Reactions build using css animation, making animation smooth and eats less memory. Reactions has random speed and random x-axis.
+Floating Reactions is build using CSS animation, making animation smooth and eats less memory. Reactions have random speed and random x-axis.
 
 ## Project setup
 ```
