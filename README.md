@@ -17,7 +17,7 @@
 	<img src="https://github.com/amanjain7838/reactReactions/blob/master/public/images/reactReactions.png"/><br>
 
 </h6>
-<h2 align="center"><a href="https://floatingreactions.herokuapp.com/" targer="_blank">Demo</a></h2>
+<h2 align="center"><a href="https://floatingreactions.herokuapp.com/" target="_blank">Demo</a></h2>
 
 
 ## Description
